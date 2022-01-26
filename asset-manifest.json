@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/work1-react-deploy/static/css/main.02692cd4.css",
+    "main.js": "/work1-react-deploy/static/js/main.572cb605.js",
+    "static/media/22F04_SBL_Landing-page_NewNotable_Image-Margin_Desktop.png": "/work1-react-deploy/static/media/22F04_SBL_Landing-page_NewNotable_Image-Margin_Desktop.7641842daa9ece7ed9b5.png",
+    "static/media/EPF_Landing-page_Desktop_4.png": "/work1-react-deploy/static/media/EPF_Landing-page_Desktop_4.b66201af3c1dcdb47f53.png",
+    "static/media/Homepage_Module_4_Christmas_Limited_Desktop_1254x560.jpg": "/work1-react-deploy/static/media/Homepage_Module_4_Christmas_Limited_Desktop_1254x560.f7ba84d6c346997f8792.jpg",
+    "static/media/FY22_Christmas_Homepage_Module_1_Desktop_Campaign_7.jpg": "/work1-react-deploy/static/media/FY22_Christmas_Homepage_Module_1_Desktop_Campaign_7.002b6f36413c00c41c43.jpg",
+    "static/media/FY22_Christmas_Homepage_Module_3_Desktop_Lifestyle_14.jpg": "/work1-react-deploy/static/media/FY22_Christmas_Homepage_Module_3_Desktop_Lifestyle_14.1fcd6299cc44da63cd52.jpg",
+    "static/media/EPF_Landing-page_Desktop_2.jpg": "/work1-react-deploy/static/media/EPF_Landing-page_Desktop_2.75649bc1a32abd5a5607.jpg",
+    "index.html": "/work1-react-deploy/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.02692cd4.css",
+    "static/js/main.572cb605.js"
+  ]
+}
